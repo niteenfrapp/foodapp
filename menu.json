@@ -1,0 +1,189 @@
+{
+    "Indian": {
+        "Plain Breads": {
+            "dependency": [
+                "Curry"
+            ],
+            "veg": [
+                "Roti",
+                "Chapati",
+                "Plain Paratha"
+            ],
+            "nonveg": []
+        },
+        "Stuffed Breads": {
+            "dependency": [],
+            "veg": [
+                "Aloo Paratha",
+                "Aloo Pyaz Paratha",
+                "Paneer Paratha",
+                "Butter Plain Paratha",
+                "Butter Aloo Pyaz Paratha",
+                "Malabar Paratha White",
+                "Butter Wheat Tikona Paratha",
+                "Malabar Paratha Brown",
+                "Oil Aloo Pyaz Paratha",
+                "Butter Aloo Pyaz Paratha",
+                "Butter Paneer Paratha",
+                "Cheese Paratha",
+                "Tawa Mirchi Laccha Paratha",
+                "Sattu Paratha"
+            ],
+            "nonveg": [
+                "Butter Egg Paratha",
+                "Mutton Paratha",
+                "Chicken Paratha"
+            ]
+        },
+        "Curry": {
+            "dependency": [],
+            "veg": [
+                "Paneer Tikka Masala",
+                "Paneer Sofiyani Tikka Masala",
+                "Paneer Zafrani Tikka Masala",
+                "Paneer Butter Masala",
+                "Paneer Matar",
+                "Paneer Bhurji",
+                "Paneer Korma",
+                "Paneer Kadai",
+                "Paneer Mushroom",
+                "Palak Paneer",
+                "Veg Lajawab",
+                "Mushroom Masala",
+                "Mushroom Matar",
+                "Green Peas Masala",
+                "Veg Kadai",
+                "Veg Makhanwala",
+                "Veg Akbari",
+                "Veg Kolhapuri",
+                "Veg Jalfrezi",
+                "Malai Methi Mutter",
+                "Bhindi Tomato Fried",
+                "Mix Vegetables",
+                "Yellow Dal Fried",
+                "Dal Tadka",
+                "Nargis Kofta",
+                "Shaam Savera",
+                "Veg Shahi Korma",
+                "Malai Kofta",
+                "Chana Masala",
+                "Veg Tawa Masala",
+                "Paneer Tikka Tawa Masala"
+            ],
+            "nonveg": [
+                "Egg Masala",
+                "Egg Bhurji",
+                "Egg Omelette",
+                "Chicken Tikka Tawa Masala",
+                "Chicken Banjara Tikka Tawa Masala",
+                "Murgh Jalandhar Tikka Tavaa Masala",
+                "Gosht Tourki Boti Tawa Masala",
+                "Keema Tawa Masala"
+            ]
+        },
+        "Rice": {
+            "dependency": [],
+            "veg": [
+                "Rice Bhakri",
+                "Jowar Bhakri",
+                "Chapati",
+                "Paneer Pulao",
+                "Green Peas Pulao",
+                "Veg Pulao",
+                "Plain Rice",
+                "Dal Khichdi",
+                "Curd Rice",
+                "Palak Khichdi",
+                "Tadka Khichdi",
+                "Basmati Plain Rice",
+                "Jeera Rice",
+                "Masala Rice",
+                "Paneer Veg Biryani"
+            ],
+            "nonveg": [
+                "Chicken Curry Rice",
+                "Chicken Pulao",
+                "Chicken Rice"
+            ]
+        },
+        "Biryani": {
+            "dependency": [],
+            "veg": [
+                "Veg Dum Biryani",
+                "Veg Dum Biryani",
+                "Paneer Dum Biryani",
+                "Mushroom Veg Biryani"
+            ],
+            "nonveg": [
+                "Bombil Curry Rice",
+                "Bangda Curry Rice",
+                "Mandeli Curry Rice",
+                "Prawn Pulao",
+                "Prawn Curry Rice",
+                "Chicken Pulao",
+                "Chicken Dum Biryani",
+                "Chicken Dum Biryani",
+                "Mutton Dum Biryani",
+                "Prawn Pulao",
+                "Prawn Biryani",
+                "Prawn Biryani"
+            ]
+        }
+    },
+    "Chinese": {
+        "Rice & Noodles": {
+            "dependency": [],
+            "veg": [
+                "Bangkok Bell Pepper Sauce With Noodles",
+                "Black Bean Sauce With Noodles",
+                "Chilli Basil Sauce With Rice",
+                "Desi Chilli Sauce With Rice",
+                "Green Thai Curry Sauce With Rice",
+                "Hot Crispy Garlic Sauce With Noodles",
+                "Kung Pao Sauce With Noodles",
+                "Manchurian Sauce With Rice",
+                "Red Thai Curry Sauce With Rice",
+                "Schezwan Sauce With Rice",
+                "Bangkok Bell Pepper Sauce With Noodles",
+                "Black Bean Sauce With Noodles",
+                "Chilli Basil Sauce With Rice",
+                "Desi Chilli Sauce With Rice",
+                "Green Thai Curry Sauce Rice",
+                "Hot Crispy Garlic Sauce With Noodles",
+                "Kung Pao Sauce With Noodles",
+                "Manchurian Sauce With Rice",
+                "Red Thai Curry Sauce With Rice",
+                "Schezwan Sauce With Rice",
+                "Veg Chinese Meal",
+                "Veg Burnt Garlic Fried Rice",
+                "Veg Fried Rice",
+                "Veg Hakka Noodles",
+                "Veg Schezwan Fried Rice",
+                "Veg Schezwan Noodles"
+            ],
+            "nonveg": [
+                "Chicken Chinese Meal",
+                "Chicken Burnt Garlic Fried Rice",
+                "Chicken Fried Rice",
+                "Chicken Hakka Noodles",
+                "Chicken Schezwan Fried Rice",
+                "Chicken Schezwan Noodles"
+            ]
+        },
+        "Gravy": {
+            "dependency": [],
+            "veg": [
+                "Chilli Paneer",
+                "Paneer Kung Pao",
+                "Veg Manchurian",
+                "Veg Schezwan Gravy"
+            ],
+            "nonveg": [
+                "Chicken Chilli",
+                "Chicken Kung Pao",
+                "Chicken Manchurian",
+                "Chicken Schezwan"
+            ]
+        }
+    }
+}
