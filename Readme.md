@@ -10,7 +10,10 @@ He approaches you to use your programming knowledge of **ReactJS** to hack this 
 
 - **Same meal should not have been suggested in the last 7 days.**
 
-You are given access to a food database in the form of a json file **menu.json** and you need to build a list of 30 cards which showcase the meal for the next 30 days.
+You are given access to a food database in the form of a json file which needs to be fetched using an API request  and you need to build a list of 30 cards which showcase the meal for the next 30 days.
+
+API Endpoint: <https://raw.githubusercontent.com/niteenfrapp/foodapp/master/menu.json>
+
 There should be **2 buttons** at the top.
 1) Randomize
 2) Accept
